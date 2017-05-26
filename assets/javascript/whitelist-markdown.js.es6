@@ -1,3 +1,3 @@
 (function () {
-  Discourse.Markdown.whiteListTag('div', 'class', 'header');
+  Discourse.Markdown.whiteListTag('div', 'class', /header/);
 })();
