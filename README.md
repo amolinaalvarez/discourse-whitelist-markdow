@@ -1,1 +1,2 @@
-# discourse-whitelist-markdow
+# discourseoptin
+Whitelist a div id
